@@ -1,0 +1,13 @@
+﻿  lab1.cpp
+E:\university\Semester4\практика\lab1-\oplab1-YuriiSvereda\lab1\lab1\lab1.cpp(36,22): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+E:\university\Semester4\практика\lab1-\oplab1-YuriiSvereda\lab1\lab1\lab1.cpp(63,25): warning C4101: 'e': unreferenced local variable
+E:\university\Semester4\практика\lab1-\oplab1-YuriiSvereda\lab1\lab1\lab1.cpp(68,22): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+E:\university\Semester4\практика\lab1-\oplab1-YuriiSvereda\lab1\lab1\lab1.cpp(97,25): warning C4101: 'e': unreferenced local variable
+E:\university\Semester4\практика\lab1-\oplab1-YuriiSvereda\lab1\lab1\lab1.cpp(102,35): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+E:\university\Semester4\практика\lab1-\oplab1-YuriiSvereda\lab1\lab1\lab1.cpp(121,34): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+E:\university\Semester4\практика\lab1-\oplab1-YuriiSvereda\lab1\lab1\lab1.cpp(153,44): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+E:\university\Semester4\практика\lab1-\oplab1-YuriiSvereda\lab1\lab1\lab1.cpp(158,27): warning C4101: 'e': unreferenced local variable
+E:\university\Semester4\практика\lab1-\oplab1-YuriiSvereda\lab1\lab1\lab1.cpp(161,25): warning C4101: 'e': unreferenced local variable
+E:\university\Semester4\практика\lab1-\oplab1-YuriiSvereda\lab1\lab1\lab1.cpp(34,1): warning C4715: 'MyDetermineFile': not all control paths return a value
+E:\university\Semester4\практика\lab1-\oplab1-YuriiSvereda\lab1\lab1\lab1.cpp(119,1): warning C4715: 'MyGold1': not all control paths return a value
+  lab1.vcxproj -> E:\university\Semester4\практика\lab1-\oplab1-YuriiSvereda\lab1\x64\Debug\lab1.exe
